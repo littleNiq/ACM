@@ -12,7 +12,6 @@
 |   |-- ACM算法模板(吉林大学).pdf
 |   |-- ACM计算几何模板--HIT-jerrybond.pdf
 |   |-- 模板.docx
-|   |-- 计算机网络杂记.md
 |   |-- 浙江大学ACM模板.doc
 |-- 1.txt
 |-- acm.docx
